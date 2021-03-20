@@ -1,6 +1,6 @@
-  <i align="center">Let's connect.!</i>
+<h3> 🤝🏻 Connect with Me </h3>
 
-  <p align="center">    
-    <a href="https://https://www.linkedin.com/in/techcursed/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
-    <a href="mailto:anshould@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
-  </p>
+<p align="center">
+<a href="https://www.linkedin.com/in/techcursed/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:anshould@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
