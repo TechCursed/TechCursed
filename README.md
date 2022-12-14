@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Techcursed 🧑‍💻</h1>
+<h1 align="center"> </> Hello World, I'm Techcursed 🧑‍💻</h1>
 <h3 align="center">A passionate Software Developer from India 💻</h3>
 
-- 🔭 I’m currently working on **Full Stack Development**
+- 🔭 I’m working as a **Full Stack Development 🚀** 
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN Stack 💡**
 
-- 📫 How to reach me **anshul9931@gmail.com**
+- 📫 Write me at **anshul9931@gmail.com**
 
-- ⚡ Fun fact **I used to upload node modules on github 😭**
+- ⚡ Fun fact **I once tried to upload node modules here 😭**
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techcursed&show_icons=true&locale=en&layout=compact" alt="techcursed" /></p>
