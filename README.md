@@ -3,15 +3,9 @@
 <a href="https://github.com/TechCursed/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=TechCursed&hide=stars,issues&count_private=true&show_icons=true"/>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechCursed&layout=compact" />
-</a> 
-
-<!-- <a href="https://github.com/TechCursed/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechCursed&layout=compact" />
 </a>
- -->
 
-
-
+<div>
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="left">
@@ -22,3 +16,4 @@
 <p align="left">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=TechCursed" id="counter">
 </p>
+</div>
