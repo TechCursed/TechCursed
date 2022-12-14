@@ -5,7 +5,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechCursed&layout=compact" />
 </a>
 
-<div>
+<div id="secondRow">
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="left">
@@ -17,3 +17,10 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=TechCursed" id="counter">
 </p>
 </div>
+
+<style>
+ #secondRow{
+  display : flex;
+  
+  }
+</style>
