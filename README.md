@@ -1,11 +1,11 @@
 <h1>Hello World.!</h1>
 
 <a href="https://github.com/TechCursed/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TechCursed&hide=stars,issues&count_private=true&show_icons=true"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=TechCursed&hide=stars,issues&count_private=true&show_icons=true"/>
 </a> 
 
 <a href="https://github.com/TechCursed/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechCursed&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechCursed&layout=compact" />
 </a>
 
 
