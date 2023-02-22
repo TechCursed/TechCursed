@@ -1,9 +1,9 @@
 <h1 align="center"> </> Hello World 👋, I'm Techcursed 🧑‍💻</h1>
 <h3 align="center">A passionate Software Developer from India 💻</h3>
 
-- 🔭 I’m working as a **Full Stack Developer 🚀** 
+- I’m working as a **Full Stack Developer 🚀** 
 
-- 🌱 I’m currently learning **MERN Stack 💡**
+- I’m currently learning **MERN Stack 💡**
 
 - 📫 Write me at **anshul9931@gmail.com**
 
