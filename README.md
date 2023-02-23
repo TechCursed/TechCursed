@@ -2,9 +2,9 @@
 <!-- <h3 align="center">A passionate Software Developer from India 💻</h3>
  -->
  
-- I’m working as a ** Full Stack Developer 🚀 ** 
+- I’m working as a **Full Stack Developer 💻** 
 
-- I’m currently learning **React 💡**
+- These days I’m learning **React 🚀** 
 
 - 📫 Write me at **anshul9931@gmail.com**
 
