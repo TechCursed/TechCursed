@@ -1,6 +1,6 @@
 <h1 align="center"> </> Hello World 👋, I'm Techcursed 🧑‍💻</h1>
 <h3 align="center">A passionate Software Developer from India 💻</h3>
-
+<img src="https://github.com/TechCursed/TechCursed/blob/main/ninjala-jane.gif" alt="techcursed" />
 - I’m working as a **Full Stack Developer 🚀** 
 
 - I’m currently learning **MERN Stack 💡**
@@ -8,9 +8,6 @@
 - 📫 Write me at **anshul9931@gmail.com**
 
 - ⚡ Fun fact **I once tried to upload node modules here 😭**
-
-<p><img align="left" src="https://github.com/TechCursed/TechCursed/blob/main/ninjala-jane.gif" alt="techcursed" /></p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techcursed&show_icons=true&locale=en&layout=compact" alt="techcursed" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=techcursed&show_icons=true&locale=en" alt="techcursed" /></p>
