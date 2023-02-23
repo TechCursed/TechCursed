@@ -1,14 +1,9 @@
-<h1 align="center"> </> Hello World 👋, I'm Techcursed 🧑‍💻</h1>
+<h1 align="center"> </> Heyy there , I'm Techcursed 🧑‍💻</h1>
 <!-- <h3 align="center">A passionate Software Developer from India 💻</h3>
  -->
 - I’m working as a ** Full Stack Developer 🚀 ** 
-
-- I’m currently learning **Full Stack Developer 🚀**
-- 
-- I’m currently learning **MERN Stack 💡**
-
+- I’m currently learning **React 💡**
 - 📫 Write me at **anshul9931@gmail.com**
-
 - ⚡ Fun fact **I once tried to upload node modules here 😭**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techcursed&show_icons=true&locale=en&layout=compact" alt="techcursed" /></p>
