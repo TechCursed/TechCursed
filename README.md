@@ -3,6 +3,8 @@
  -->
 - I’m working as a ** Full Stack Developer 🚀 ** 
 
+- I’m currently learning **Full Stack Developer 🚀**
+- 
 - I’m currently learning **MERN Stack 💡**
 
 - 📫 Write me at **anshul9931@gmail.com**
