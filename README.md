@@ -9,8 +9,8 @@
 
 - ⚡ Fun fact **I once tried to upload node modules here 😭**
 
+<p><img align="left" src="https://github.com/TechCursed/TechCursed/blob/main/ninjala-jane.gif" alt="techcursed" /></p>
 
-<div class="tenor-gif-embed" data-postid="20337624" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/ninjala-jane-hacker-hacking-computer-gif-20337624">Ninjala Jane GIF</a>from <a href="https://tenor.com/search/ninjala-gifs">Ninjala GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techcursed&show_icons=true&locale=en&layout=compact" alt="techcursed" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=techcursed&show_icons=true&locale=en" alt="techcursed" /></p>
