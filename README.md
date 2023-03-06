@@ -35,6 +35,9 @@
 
 [![TechCursed's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TechCursed&bg_color=0d1117&color=c9c9c9&line=4c779e&point=a8e5ff&area=true&hide_border=true)](https://github.com/TechCursed/github-readme-activity-graph)
 
+## :trophy: TechCursed's Github Stats:
+
+![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TechCursed&theme=github_dark)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/techcursed"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="techcursed" /></a></p><br><br>
