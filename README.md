@@ -10,11 +10,6 @@
 
 - ⚡ Fun fact **I once tried to upload node modules here 😭**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techcursed&show_icons=true&locale=en&layout=compact" alt="techcursed" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=techcursed&show_icons=true&locale=en" alt="techcursed" /></p>
-
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -38,6 +33,10 @@
 ## :trophy: TechCursed's Github Stats:
 
 ![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TechCursed&theme=github_dark)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techcursed&show_icons=true&locale=en&layout=compact" alt="techcursed" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=techcursed&show_icons=true&locale=en" alt="techcursed" /></p>
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/techcursed"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="techcursed" /></a></p><br><br>
