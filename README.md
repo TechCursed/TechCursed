@@ -4,7 +4,7 @@
  
 - I’m working as a **Full Stack Developer 💻** 
 
-- These days I’m learning **React 🚀** 
+- These days I’m learning **React ⚛ 🚀** 
 
 - 📫 Write me at **anshul9931@gmail.com**
 
