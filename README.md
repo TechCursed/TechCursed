@@ -1,4 +1,4 @@
-<h1 align="center"> </> Heyy there , I'm Techcursed 🧑‍💻</h1>
+<h1 align="center"> </> Heyy there , I'm Anshul 🧑‍💻</h1>
 <!-- <h3 align="center">A passionate Software Developer from India 💻</h3>
  -->
  
@@ -6,7 +6,7 @@
 
 - These days I’m learning **React ⚛ 🚀** 
 
-- 📫 Write me at **anshul9931@gmail.com**
+- 📫 Write me at **anshulkumar.iiita@gmail.com**
 
 - ⚡ Fun fact **I once tried to upload node modules here 😭**
 
