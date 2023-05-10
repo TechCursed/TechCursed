@@ -6,7 +6,7 @@
 
 - These days I’m learning **React ⚛ 🚀** 
 
-- 📫 Write me at **anshulkumar.iiita@gmail.com**
+- 📫 Write me at **anshul9931@gmail.com**
 
 - ⚡ Fun fact **I once tried to upload node modules here 😭**
 
